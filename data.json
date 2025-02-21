@@ -1,0 +1,109 @@
+
+{
+    "apple": {
+      "part_of_speech": "noun",
+      "definition": "A round fruit with red, green, or yellow skin and a crisp interior.",
+      "examples": ["She ate a juicy apple for lunch."]
+    },
+    "run": {
+      "part_of_speech": "verb",
+      "definition": "To move swiftly on foot.",
+      "examples": ["He can run a mile in under six minutes."]
+    },
+    "beautiful": {
+      "part_of_speech": "adjective",
+      "definition": "Pleasing the senses or mind aesthetically.",
+      "examples": ["The sunset was incredibly beautiful."]
+    },
+    "jump": {
+      "part_of_speech": "verb",
+      "definition": "To push oneself off a surface into the air using the legs.",
+      "examples": ["The cat can jump very high."]
+    },
+    "happy": {
+      "part_of_speech": "adjective",
+      "definition": "Feeling or showing pleasure or contentment.",
+      "examples": ["She was happy to see her friends again."]
+    },
+    "book": {
+      "part_of_speech": "noun",
+      "definition": "A set of written, printed, or blank pages fastened together between covers.",
+      "examples": ["She borrowed a book from the library."]
+    },
+    "table": {
+      "part_of_speech": "noun",
+      "definition": "A piece of furniture with a flat top and one or more legs.",
+      "examples": ["They sat around the dining table."]
+    },
+    "fast": {
+      "part_of_speech": "adjective",
+      "definition": "Moving or able to move quickly.",
+      "examples": ["The car was very fast."]
+    },
+    "write": {
+      "part_of_speech": "verb",
+      "definition": "To mark letters, words, or symbols on a surface with a pen, pencil, or other tool.",
+      "examples": ["She likes to write stories."]
+    },
+    "strong": {
+      "part_of_speech": "adjective",
+      "definition": "Having great physical power or strength.",
+      "examples": ["He is very strong and can lift heavy weights."]
+    },
+    "bright": {
+      "part_of_speech": "adjective",
+      "definition": "Giving off lots of light or intelligent.",
+      "examples": ["The stars were very bright."]
+    },
+    "cold": {
+      "part_of_speech": "adjective",
+      "definition": "Having a low temperature.",
+      "examples": ["The water was too cold to swim in."]
+    },
+    "dog": {
+      "part_of_speech": "noun",
+      "definition": "A domesticated carnivorous mammal with four legs, typically kept as a pet.",
+      "examples": ["His dog loves to play outside."]
+    },
+    "eat": {
+      "part_of_speech": "verb",
+      "definition": "To put food into the mouth and swallow it.",
+      "examples": ["She likes to eat pizza."]
+    },
+    "fly": {
+      "part_of_speech": "verb",
+      "definition": "To move through the air with wings or by force.",
+      "examples": ["The birds fly south in winter."]
+    },
+    "green": {
+      "part_of_speech": "adjective",
+      "definition": "The color of fresh grass or leaves.",
+      "examples": ["The trees were green and full of life."]
+    },
+    "laugh": {
+      "part_of_speech": "verb",
+      "definition": "To make sounds with the voice that show amusement.",
+      "examples": ["She couldn't help but laugh at the joke."]
+    },
+    "music": {
+      "part_of_speech": "noun",
+      "definition": "Sounds combined in a way that produces beauty, harmony, and expression.",
+      "examples": ["He enjoys listening to classical music."]
+    },
+    "ocean": {
+      "part_of_speech": "noun",
+      "definition": "A vast body of salt water that covers a large part of the Earth's surface.",
+      "examples": ["The ocean waves crashed against the shore."]
+    },
+    "yellow": {
+      "part_of_speech": "adjective",
+      "definition": "The color of ripe lemons or the sun.",
+      "examples": ["She wore a bright yellow dress."]
+    },
+    "smile": {
+      "part_of_speech": "verb",
+      "definition": "To form one's lips into a curve as a sign of happiness.",
+      "examples": ["She gave a warm smile."]
+    }
+  }
+  
